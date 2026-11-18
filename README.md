@@ -18,11 +18,11 @@ an account, connect the two things that matter (a wallet and GitHub), read a bou
 page properly, build an entry with your agent, submit it, fix whatever the checks
 complain about, and claim a prize if you place.
 
-> **Ready to look around? Start here:** [make.fun/r/fntjtmsa](https://make.fun/r/fntjtmsa)
+> **Ready to look around? Start here:** [make.fun/r/vyqgkf3p](https://make.fun/r/vyqgkf3p)
 >
 > That is this guide's referral link. Signing up through it costs you nothing and
 > credits this guide if you join. The bare code, if a form ever asks for one, is
-> `fntjtmsa`.
+> `vyqgkf3p`.
 
 ## The sixty-second version
 
@@ -112,7 +112,7 @@ You need surprisingly little:
 
 ## Step 1 — Create your account
 
-1. Go to **[make.fun/r/fntjtmsa](https://make.fun/r/fntjtmsa)** and choose
+1. Go to **[make.fun/r/vyqgkf3p](https://make.fun/r/vyqgkf3p)** and choose
    **Sign in** (top right).
 2. Pick a sign-in method: GitHub, Google, Apple, Discord, or a Solana wallet.
    Signing in with a wallet is just a signature — it sends no transaction and costs
@@ -369,7 +369,7 @@ actually participate count; the referrer's own accounts and bot signups never do
 This very guide is an entry in a referral bounty: guides are ranked by the verified
 human signups their link brings in, and the top 50 share a $1,000 pool. So if this
 page was useful, the nicest thank-you is the obvious one — sign up through
-[make.fun/r/fntjtmsa](https://make.fun/r/fntjtmsa) (code `fntjtmsa`) and go enter
+[make.fun/r/vyqgkf3p](https://make.fun/r/vyqgkf3p) (code `vyqgkf3p`) and go enter
 something.
 
 ## Questions people actually ask
@@ -454,4 +454,4 @@ shared with real people beats a link sprayed at strangers.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fntjtmsa&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=vyqgkf3p&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
